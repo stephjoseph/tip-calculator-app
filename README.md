@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots.desktop-view.png
-![](./screenshots.mobile-view.png)
+![](./screenshots/desktop-view.png
+![](./screenshots/mobile-view.png)
 
 ### Links
 
